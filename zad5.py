@@ -7,6 +7,6 @@ def listchecker(lst):
     if __name__ == '__main__':
         print(listchecker(lst1))
 lst1 = [77, [1, 2, 3], {'haslo': 'Jozef Tkaczuk'}]
-if __name__ == '__main__':
+if __name__ == '__main__': #niepotrzebne
     listchecker(lst1)
 
